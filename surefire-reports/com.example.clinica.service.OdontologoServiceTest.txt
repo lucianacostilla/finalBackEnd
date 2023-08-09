@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.clinica.service.OdontologoServiceTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.022 s - in com.example.clinica.service.OdontologoServiceTest
